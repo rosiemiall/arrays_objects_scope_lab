@@ -69,6 +69,6 @@ if (scottishPopulation > unitedKingdom[1].population && scottishPopulation > uni
   console.log("Scottish population is the biggest.");
 } else if (scottishPopulation < unitedKingdom[1].population && scottishPopulation < unitedKingdom[2].population && scottishPopulation < unitedKingdom[2].population){
   console.log("Scottish population is the smallest.");
-}else {
+} else {
   console.log("Scottish population is somewhere in the middle.");
 }
